@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sakshi12222265
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python,html,javascript
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in Web design
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me: www.sainisakshi003@gmail.com
 
 <!---
