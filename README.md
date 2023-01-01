@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sakshi12222265
+- 👋 Hi, I’m Sakshi saini
 - 👀 I’m interested in Web design
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript,python.
 - 📫 How to reach me: www.sainisakshi003@gmail.com
 
 <!---
