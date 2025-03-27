@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sakshi saini
-- 👀 I’m interested in Web design
-- 🌱 I’m currently learning javascript,python.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Automation Testing and different APIs.
 - 📫 How to reach me: sakshisainiii25@gmail.com
 
 <!---
